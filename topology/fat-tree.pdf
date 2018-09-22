@@ -1,0 +1,139 @@
+<!DOCTYPE html><html itemscope itemtype="http://schema.org/Product"><head><title>Overleaf v2, Online LaTeX Editor</title><meta name="twitter:title" content="Overleaf v2, Online LaTeX Editor"><meta name="og:title" content="Overleaf v2, Online LaTeX Editor"><meta itemprop="description" name="description" content="An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more."><meta itemprop="description" name="twitter:description" content="An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more."><meta itemprop="description" name="og:description" content="An online LaTeX editor that's easy to use. No installation, real-time collaboration, version control, hundreds of LaTeX templates, and more."><meta itemprop="image" name="image" content="/ol-favicon.ico"><meta itemprop="name" content="Overleaf v2, the Online LaTeX Editor"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@overleaf"><meta name="og:type" content="website"><script type="text/javascript">// Stop superfish from loading
+window.similarproducts = true</script><style>[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak  {display: none !important; display: none; }</style><link rel="icon" href="/ol-favicon.ico"><link rel="icon" sizes="192x192" href="/ol-touch-icon-192x192.png"><link rel="apple-touch-icon-precomposed" href="/ol-apple-touch-icon-precomposed.png"><link rel="mask-icon" href="/ol-mask-favicon.svg" color="#4f9c45"><link rel="stylesheet" href="https://cdn.sharelatex.com/stylesheets/ol-style.d08a427883565c4a418b1eaac28ba69f.css" id="main-stylesheet"><link rel="alternate" href="https://v2.overleaf.com/login" hreflang="en"><link rel="alternate" href="https://es.overleaf.com/login" hreflang="es"><link rel="alternate" href="https://pt.overleaf.com/login" hreflang="pt"><link rel="alternate" href="https://de.overleaf.com/login" hreflang="de"><link rel="alternate" href="https://fr.overleaf.com/login" hreflang="fr"><link rel="alternate" href="https://cs.overleaf.com/login" hreflang="cs"><link rel="alternate" href="https://nl.overleaf.com/login" hreflang="nl"><link rel="alternate" href="https://sv.overleaf.com/login" hreflang="sv"><link rel="alternate" href="https://it.overleaf.com/login" hreflang="it"><link rel="alternate" href="https://tr.overleaf.com/login" hreflang="tr"><link rel="alternate" href="https://cn.overleaf.com/login" hreflang="zh-CN"><link rel="alternate" href="https://no.overleaf.com/login" hreflang="no"><link rel="alternate" href="https://da.overleaf.com/login" hreflang="da"><link rel="alternate" href="https://ru.overleaf.com/login" hreflang="ru"><link rel="alternate" href="https://ko.overleaf.com/login" hreflang="ko"><link rel="alternate" href="https://ja.overleaf.com/login" hreflang="ja"><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-112092690-1', 'overleaf.com');
+ga('send', 'pageview');</script><script type="text/javascript">window.csrfToken = "obtG458X-NBXqbAALayKYffsb5QAfvC8alIo";
+</script><script src="https://cdn.sharelatex.com/minjs/libs/jquery-1.11.1.min.js"></script><script type="text/javascript">var noCdnKey = "nocdn=true"
+var cdnBlocked = typeof jQuery === 'undefined'
+var noCdnAlreadyInUrl = window.location.href.indexOf(noCdnKey) != -1 //prevent loops
+if (cdnBlocked && !noCdnAlreadyInUrl && navigator.userAgent.indexOf("Googlebot") == -1) {
+	window.location.search += '&'+noCdnKey;
+}
+</script><script src="https://cdn.sharelatex.com/minjs/libs/angular-1.6.4.min.js"></script><script>window.sharelatex = {
+	siteUrl: 'https://v2.overleaf.com',
+	jsPath:  '/minjs/',
+	sixpackDomain: 'https://sixpack.sharelatex.com'
+};
+window.systemMessages = [];
+window.ab = {};
+window.user_id = '';
+window.ExposedSettings = JSON.parse('{"isOverleaf":true}');
+</script><script>window.sharelatex.algolia = {
+	app_id:'SK53GL4JLY',
+	api_key:'1606ccef5b70ac44680b61e6b0285126',
+	indexes:{"templates":"templates-production","institutions":"institutions","wiki":"learn-wiki","kb":"kb-wiki"}
+}
+</script><script>window.sharelatex.templates = {
+	user_id : '515d4e908d2c843b4a00620b',
+	cdnDomain : 'https://cdn.sharelatex.com',
+	indexName : 'templates-production'
+}
+</script><script>window.useV2TrialUrl = true
+
+</script></head><body><script src="https://www.google.com/recaptcha/api.js?render=explicit"></script><div class="g-recaptcha" id="recaptcha" data-sitekey="6LebiTwUAAAAAMuPyjA4pDA4jxPxPe2K9_ndL74Q" data-size="invisible" data-badge="inline"></div><nav class="navbar navbar-default navbar-main"><div class="container-fluid"><div class="navbar-header"><button class="navbar-toggle" ng-init="navCollapsed = true" ng-click="navCollapsed = !navCollapsed" ng-class="{active: !navCollapsed}"><i class="fa fa-bars"></i></button><a class="navbar-brand" href="/" aria-label="Overleaf v2"></a></div><div class="navbar-collapse collapse" collapse="navCollapsed"><ul class="nav navbar-nav navbar-right"><!-- loop over header_extras--><li class="dropdown subdued" dropdown><a class="dropdown-toggle" href dropdown-toggle>Features & Benefits<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/for/authors">For Writing</a></li><li><a href="/for/edu">For Teaching</a></li><li><a href="/for/universities">For Universities</a></li><li><a href="/for/publishers">For Publishers</a></li><li><a href="/for/enterprises">For Enterprises</a></li></ul></li><li class="subdued"><a class="subdued" href="/user/subscription/plans">Plans &amp; Pricing</a></li><li class="dropdown subdued" dropdown><a class="dropdown-toggle" href dropdown-toggle>Help<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/learn">Documentation</a></li><li><a ng-controller="ContactModal", ng-click="contactUsModal()", href>Contact Us</a></li></ul></li><!-- logged out--><!-- register link--><!-- login link--><li><a href="/login">Log In</a></li><!-- projects link and account menu--></ul></div></div></nav><div class="content content-alt"><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1"><div class="card"><div class="page-header"><h1>Welcome to Overleaf v2!</h1></div><p class="text-center"><img src="/img/ol_plus_sl.png" style="width: 50%;"></p><p>Good news! Overleaf and ShareLaTeX have <a href="https://www.overleaf.com/blog/518-exciting-news-sharelatex-is-joining-overleaf" target="_blank" event-tracking="click_v2_join_forces" event-tracking-trigger="click" event-tracking-ga="v2_onboard" event-tracking-label="welcome">joined forces</a>
+to bring you Overleaf v2, which combines the best of both
+services. Coming from ShareLaTeX, Overleaf v2 will be very
+familiar, because it's built around the ShareLaTeX editor.</p><div class="row"><div class="col-md-6"><h3>For Overleaf Users</h3><p class="text-center row-spaced"><a class="btn btn-lg btn-success" href="/overleaf/login" event-tracking="login_v2_via_overleaf" event-tracking-trigger="click" event-tracking-ga="v2_onboard" event-tracking-label="welcome">Log in with Overleaf</a></p><p>You can log in to <a href="/overleaf/login" event-tracking="login_v2_via_overleaf" event-tracking-trigger="click" event-tracking-ga="v2_onboard" event-tracking-label="welcome">Overleaf v2 via www.overleaf.com</a>
+as normal.</p></div><div class="col-md-6"><h3>For ShareLaTeX Users</h3><p class="text-center row-spaced"><a class="btn btn-lg btn-danger" href="https://www.sharelatex.com/logout" event-tracking="login_v2_via_sharelatex" event-tracking-trigger="click" event-tracking-ga="v2_onboard" event-tracking-label="welcome">Log in with ShareLaTeX</a></p><p><strong>If you already have an Overleaf account</strong>, please
+make sure the email addresses you use to sign in are the
+same on both services. We'll then automatically merge your
+accounts so you can access all your Overleaf and
+ShareLaTeX projects through Overleaf v2.</p><p><strong>If you don't already have an Overleaf account</strong>,
+we'll automatically transfer all your projects from
+ShareLaTeX to Overleaf v2. The transfer will only take a
+few seconds. The Overleaf v2 LaTeX compiler is the same,
+so your projects will all work exactly as they did before.</p><p><strong>If you have a paid subscription</strong>, group license
+or institutional site license, it will continue to work in
+Overleaf v2 automatically.</p><p>Please log in to ShareLaTeX to move your account to
+Overleaf. It will only take a few seconds. If you have a
+ShareLaTeX subscription, it will automatically be
+transferred to Overleaf.</p></div></div></div></div></div></div></div><div ng-controller="AbTestController"></div><footer class="site-footer"><div class="site-footer-content"><div class="row"><ul class="col-md-9"><li class="dropdown dropup subdued" dropdown><a class="dropdown-toggle" href="#" dropdown-toggle data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tooltip="Language"><figure class="sprite-icon sprite-icon-lang sprite-icon-en"></figure></a><ul class="dropdown-menu" role="menu"><li class="dropdown-header">Language</li><li class="lngOption"><a class="menu-indent" href="https://v2.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-en"></figure> English</a></li><li class="lngOption"><a class="menu-indent" href="https://es.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-es"></figure> Spanish</a></li><li class="lngOption"><a class="menu-indent" href="https://pt.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-pt"></figure> Portuguese</a></li><li class="lngOption"><a class="menu-indent" href="https://de.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-de"></figure> German</a></li><li class="lngOption"><a class="menu-indent" href="https://fr.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-fr"></figure> French</a></li><li class="lngOption"><a class="menu-indent" href="https://cs.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-cs"></figure> Czech</a></li><li class="lngOption"><a class="menu-indent" href="https://nl.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-nl"></figure> Dutch</a></li><li class="lngOption"><a class="menu-indent" href="https://sv.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-sv"></figure> Swedish</a></li><li class="lngOption"><a class="menu-indent" href="https://it.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-it"></figure> Italian</a></li><li class="lngOption"><a class="menu-indent" href="https://tr.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-tr"></figure> Turkish</a></li><li class="lngOption"><a class="menu-indent" href="https://cn.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-zh-CN"></figure> Chinese</a></li><li class="lngOption"><a class="menu-indent" href="https://no.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-no"></figure> Norwegian</a></li><li class="lngOption"><a class="menu-indent" href="https://da.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-da"></figure> Danish</a></li><li class="lngOption"><a class="menu-indent" href="https://ru.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-ru"></figure> Russian</a></li><li class="lngOption"><a class="menu-indent" href="https://ko.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-ko"></figure> Korean</a></li><li class="lngOption"><a class="menu-indent" href="https://ja.overleaf.com/login"><figure class="sprite-icon sprite-icon-lang sprite-icon-ja"></figure> Japanese</a></li></ul></li><li>© 2018 Overleaf</li><li><a href="https://www.overleaf.com/legal">Privacy and Terms</a></li><li><a href="https://www.overleaf.com/legal#Security">Security</a></li><li><a ng-controller="ContactModal" ng-click="contactUsModal()" href>Contact</a></li><li><a href="https://www.overleaf.com/about">About</a></li><li><a href="https://www.overleaf.com/blog">Blog</a></li></ul><ul class="col-md-3 text-right"><li><a href="https://twitter.com/overleaf"><i class='fa fa-twitter-square'></i></a></li><li><a href="https://www.facebook.com/overleaf.editor"><i class='fa fa-facebook-square'></i></a></li><li><a href="https://plus.google.com/+WritelatexOnline"><i class='fa fa-google-plus-square'></i></a></li><li><a href="https://www.linkedin.com/company/writelatex-limited"><i class='fa fa-linkedin-square'></i></a></li></ul></div></div></footer><script type="text/javascript">// minimal requirejs configuration (can be extended/overridden)
+window.requirejs = {
+	"paths" : {
+		"moment": "libs/moment-2.9.0",
+		"fineuploader": "libs/fineuploader-5.15.4",
+		"main": "https://cdn.sharelatex.com/minjs/main.48aa581f127585e167e8663735a3535a",
+		"libraries": "https://cdn.sharelatex.com/minjs/libraries.9447954561a660019fcaf39f57be71ab",
+	},
+	"config":{
+		"moment":{
+			"noGlobal": true
+		}
+	}
+};</script><script data-main="https://cdn.sharelatex.com/minjs/main.js" baseurl="https://cdn.sharelatex.com/minjs/" src="https://cdn.sharelatex.com/minjs/libs/require.0cb51c1a5e8e978cbe069c07f3b8d16d.js"></script><script type="text/ng-template" id="contactModalTemplate"><div class="modal-header"><button class="close" type="button" data-dismiss="modal" ng-click="close()">&times;</button><h3>Contact us</h3></div><div class="modal-body contact-us-modal"><div ng-cloak ng-controller="ContactFormController"><form name="contactForm"><span ng-show="sent == false"><div class="alert alert-danger" ng-show="error">Something went wrong sending your request :(</div><label>Subject</label><div class="form-group"><input class="field text medium span8 form-control" name="subject" required ng-model="form.subject" ng-model-options="{ updateOn: 'default blur', debounce: {'default': 350, 'blur': 0} }" maxlength="255" tabindex="1" onkeyup=""></div><div class="contact-suggestions" ng-show="suggestions.length"><p class="contact-suggestion-label">Have you checked our <a href='/learn/kb' target='_blank'>knowledge base</a>?</p><ul class="contact-suggestion-list"><li ng-repeat="suggestion in suggestions"><a class="contact-suggestion-list-item" ng-href="{{ suggestion.url }}" ng-click="clickSuggestionLink(suggestion.url);" target="_blank"><span ng-bind-html="suggestion.name"></span><i class="fa fa-angle-right"></i></a></li></ul></div><label class="desc" ng-show="''.length &lt; 1">Email</label><div class="form-group" ng-show="''.length &lt; 1"><input class="field text medium span8 form-control" name="email" required ng-model="form.email" ng-init="form.email = ''" type="email" spellcheck="false" value="" maxlength="255" tabindex="2"></div><label class="desc" id="title12">Affected project URL (Optional)</label><div class="form-group"><input class="field text medium span8 form-control" ng-model="form.project_url" tabindex="3" onkeyup=""></div><label class="desc">Message</label><div class="form-group"><textarea class="field text medium span8 form-control" name="body" required ng-model="form.message" type="text" value="" tabindex="4" onkeyup=""></textarea></div><div class="form-group text-center"><input class="btn-success btn btn-lg" type="submit" ng-disabled="contactForm.$invalid || sending" ng-click="contactUs()" value="Contact us"></div></span></form><span ng-show="sent"><p>Request Sent, Thank you.</p></span></div></div></script><script type="text/ng-template" id="v1ProjectTooltipTemplate"><span>This project is from Overleaf v1 and has not been imported to v2 yet.</span></script><script type="text/ng-template" id="v1TagTooltipTemplate"><span>This folder/tag is from Overleaf v1. Please go back to v1 to manage.</span></script><script type="text/javascript">require.config({
+	paths: {
+		'raven': 'libs/raven-3.15.0.min'
+	}
+});
+
+require(["raven"], function(Raven) {
+	if (typeof(Raven) != "undefined" && Raven.config) {
+		Raven.config("https://4f0989f11cb54142a5c3d98b421b930a@app.getsentry.com/34706", {
+		tags: { 'commit': 'd6cf1f', 'build': '4313' },
+		release: '4313',
+		// Ignore list based off: https://gist.github.com/1878283
+		ignoreErrors: [
+			'DealPly',
+			// Random plugins/extensions
+			'top.GLOBALS',
+			// See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+			'originalCreateNotification',
+			'canvas.contentDocument',
+			'MyApp_RemoveAllHighlights',
+			'http://tt.epicplay.com',
+			'Can\'t find variable: ZiteReader',
+			'jigsaw is not defined',
+			'ComboSearch is not defined',
+			'http://loading.retry.widdit.com/',
+			'atomicFindClose',
+			// Facebook borked
+			'fb_xd_fragment',
+			// ISP optimizing proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+			// See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+			'bmi_SafeAddOnload',
+			'EBCallBackMessageReceived',
+			// See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+			'conduitPage',
+			'/NS_ERROR_NOT_CONNECTED/i',
+			"/Cannot read property 'row' of undefined/i",
+			'TypeError: start is undefined'
+		],
+		ignoreUrls: [
+			// Facebook flakiness
+			/graph\.facebook\.com/i,
+			// Facebook blocked
+			/connect\.facebook\.net\/en_US\/all\.js/i,
+			// Woopra flakiness
+			/eatdifferent\.com\.woopra-ns\.com/i,
+			/static\.woopra\.com\/js\/woopra\.js/i,
+			// Chrome extensions
+			/extensions\//i,
+			/^chrome:\/\//i,
+			// Other plugins
+			/127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+			/webappstoolbarba\.texthelp\.com\//i,
+			/metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
+			/a\.disquscdn\.com/i,
+			/platform\.twitter\.com/i,
+			/pstatic\.datafastguru\.info/i
+		],
+		shouldSendCallback: function(data) {
+			// only send a fraction of errors
+			var sampleRate = 0.01;
+			return (Math.random() <= sampleRate);
+		},
+		dataCallback: function(data) {
+			// remove circular references from object
+			var cache = [];
+			var s = JSON.stringify(data, function(k, v) { if (typeof v === 'object' && v !== null) { if (cache.indexOf(v) !== -1) return "[circular]"; cache.push(v); }; return v; });
+			return JSON.parse(s);
+		}
+		// we highly recommend restricting exceptions to a domain in order to filter out clutter
+		// whitelistUrls: ['example.com/scripts/']
+		}).install();
+	}
+}, function(err) {
+	console.log(">> error loading raven", err);
+})</script></body></html>
